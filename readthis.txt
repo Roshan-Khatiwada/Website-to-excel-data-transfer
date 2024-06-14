@@ -1,0 +1,10 @@
+1. download the php and composer in your device.. 
+
+2. Install PhpSpreadsheet using this command in your porject directory. "composer require phpoffice/phpspreadsheet" ;
+
+3. Start a local PHP server to run the website in brower. 
+"php -S localhost:8000" use this in your terminal and it will give link , paste that link in the browser..
+
+4. in this code we should not open the file in system in which we are working.. close that file then only data will be saved...
+to remove this you can share your excel file.. 
+
